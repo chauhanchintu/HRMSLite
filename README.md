@@ -85,7 +85,7 @@ The repository has the following structure:
 
 To get started with HRMS on your local machine, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/Oussama1403/HRMS`
+1. Clone the repository: `https://github.com/chauhanchintu/HRMSLite.git`
 2. Navigate to the project directory: `cd hrms`
 3. Install the project dependencies: `pip install -r requirements.txt`
 4. Run the application: `python main.py`
