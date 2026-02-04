@@ -104,7 +104,4 @@ We welcome contributions to HRMS from the community. If you would like to contri
 7. Provide a detailed description of your changes and why they should be merged.
 
 
-
-HRMS is released under the [MIT License](LICENSE). Feel free to use, modify, and distribute it as per the license terms.
-
 Thank you for your interest in HRMS! I appreciate your contribution and hope you find the project useful.
