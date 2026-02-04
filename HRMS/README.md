@@ -104,13 +104,7 @@ We welcome contributions to HRMS from the community. If you would like to contri
 7. Provide a detailed description of your changes and why they should be merged.
 
 ## Developer
-
-HRMS is developed and maintained by [Osama Ben Sassi](https://www.linkedin.com/in/osama-ben-sassi/).
-
-Feel free to contact me with any questions or feedback regarding HRMS.
-
-## License
-
-HRMS is released under the [MIT License](LICENSE). Feel free to use, modify, and distribute it as per the license terms.
+## Chintu_Chauhan
 
 Thank you for your interest in HRMS! I appreciate your contribution and hope you find the project useful.
+
